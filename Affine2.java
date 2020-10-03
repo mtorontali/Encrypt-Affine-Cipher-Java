@@ -1,7 +1,3 @@
-# Encrypt-Affine-Cipher-Java
-A java program that encrypts a plaintext using the affine cipher.
-
-```java
 // Matthew Torontali
 // 8/28/20
 // Encrypt plain text with affine cipher in Java
@@ -47,4 +43,3 @@ public class Affine2 {
         System.out.println("\n");
     }
 }
-```
